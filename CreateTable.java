@@ -29,3 +29,4 @@ public class SQLitemovie{
         }
         System.out.println("Table created successfully");
       }
+}
